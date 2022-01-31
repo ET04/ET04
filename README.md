@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+CSULB
+Computer Engineering Major
 <!--
 **ET04/ET04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
